@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&display=swap');
-body {
-  font-family : 'JetBrains Mono', D2Coding, Arial, Geneva, Helvetica, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&family=Nanum+Gothic+Coding&display=swap');
+h1, h2, h3, h4, h5, h6, p, body, span {
+    font-family: 'JetBrains Mono', 'Nanum Gothic Coding', D2Coding, monospace;
+    
 }
